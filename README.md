@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ***nothing atm***.
 - 📫 Send me a DM to @lanceskiii
 
+[![Xapier14's GitHub stats](https://github-readme-stats.vercel.app/api?username=xapier14)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Xapier14/Xapier14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
