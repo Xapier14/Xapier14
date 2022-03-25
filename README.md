@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lance Crisang. A student currently studying Computer Science at Batangas State University
 - 👀 I’m interested in game creation, networking & cryptography.
-- 🌱 I’m currently learning SDL2-CS!
+- 🌱 I’m currently learning C++/SDL2/Lua!
 - 💞️ I’m looking to collaborate on ***nothing atm***.
 - 📫 Send me a DM to @lanceskiii
 
