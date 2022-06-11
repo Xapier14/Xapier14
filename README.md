@@ -4,13 +4,13 @@
 </p><br>
 
 <h2 align="center">About Me</h2>
-
-- 👋 Hi, I’m Lance Crisang. A student currently studying Computer Science at Batangas State University
-- 👀 I’m interested in game creation, networking & cryptography.
-- 🌱 I’m currently learning C++/SDL2/Lua!
-- 💞️ I’m looking to collaborate on ***nothing atm***.
-- 📫 Send me a DM to @lanceskiii
-
+<p align="center">
+👋 Hi, I’m Lance Crisang. 👋<br>
+📚 A student currently studying Computer Science at Batangas State University. 📚<br>
+👀 I’m interested in game creation, networking & cryptography. 👀<br>
+🌱 I’m currently learning C++/SDL2/Lua! 🌱<br>
+📫 Send me a DM to @lanceskiii. 📫<br>
+</p>
 <h2 align="center">My Languages</h2>
 
 <p align="center">
