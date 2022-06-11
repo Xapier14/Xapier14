@@ -11,7 +11,7 @@
 📚 A student currently studying Computer Science at Batangas State University. 📚<br>
 👀 I’m interested in game creation, networking & cryptography. 👀<br>
 🌱 I’m currently learning C++/SDL2/Lua! 🌱<br>
-📫 Send me a DM to @lanceskiii. 📫<br>
+📫 Send me a DM to my Twitter @lanceskiii. 📫<br>
 </p>
 <h2 align="center">My Languages</h2>
 
