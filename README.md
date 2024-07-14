@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-I'm Lance, a student developer currently studying Computer Science!
+I'm Lance, a computer science graduate currently working as a Frontend Developer!
 
 I do a variety of projects, but they are mostly written in C#.
 
