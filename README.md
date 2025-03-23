@@ -4,7 +4,7 @@ I'm Lance, a full-stack software engineer.\
 I work on mobile apps, websites, web apps, automation scripts and even LLM services.\
 I use React, React Native, Next.JS, Kotlin + Jetpack Compose, Angular, Express.JS, Nest.js, ASP.NET, and many more.\
 I'm also available for consultancy and freelance contractual work.\
-If you have any questions or ideas you want to discuss, feel free to shoot a DM or an email.\
+If you have any questions or ideas you want to discuss, feel free to shoot a DM or an email.
 
 This GitHub user profile needs a lot of cleanup, but feel free to browse some of my old projects. (*shudders*)
 
